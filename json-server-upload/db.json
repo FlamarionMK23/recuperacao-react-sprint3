@@ -1,0 +1,28 @@
+{
+  "bolos": [
+    {
+      "nome": "Bolo de cenoura",
+      "cobertura": "Margarina, Açúcar, Chocolate em pó solúvel, Leite",
+      "ingredientes": "Cenouras, Margarina, Ovos, Açúcar, Farinha de trigo, Fermento químico em pó",
+      "valor": "55",
+      "user_img": "1699381362195.png",
+      "id": 1
+    },
+    {
+      "nome": "Bolo de Maçã",
+      "valor": "350",
+      "ingredientes": "530 gramas de maçã picada · 3 ovos · 240 mililitros de óleo · 430 gramas de açúcar · 430 gramas de farinha de trigo",
+      "cobertura": "Sem cobertura",
+      "user_img": "1700329328001.jpg",
+      "id": 2
+    },
+    {
+      "nome": "Bolo de Laranja",
+      "valor": "650",
+      "ingredientes": " ovo 4 ovos ; açúcar 2 xícaras (chá) de açúcar ; óleo 1 xícara (chá) de óleo ; suco de laranja suco de 2 laranjas",
+      "cobertura": "Sem Cobertura",
+      "user_img": "1700331751552.webp",
+      "id": 3
+    }
+  ]
+}
